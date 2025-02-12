@@ -5,3 +5,5 @@ int main()
 printf("sub of two numbers is: %d",a-b);
 
 printf("multiplication of two numbers is: %d",a*b);
+printf("division of two numbers is: %d",a/b);
+}
