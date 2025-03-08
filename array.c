@@ -10,3 +10,8 @@ int main(){
 	  sum=sum+arr[i];
 
        }
+	 
+	 printf("Sum of array:%d\n",sum);
+
+	 return 0;
+}
